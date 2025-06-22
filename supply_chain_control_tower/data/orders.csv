@@ -1,0 +1,4 @@
+order_id,product_id,quantity,status
+ORD001,P001,20,Delivered
+ORD002,P002,15,Pending
+ORD003,P003,50,Delivered

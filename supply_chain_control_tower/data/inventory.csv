@@ -1,0 +1,4 @@
+product_id,warehouse_id,stock_level,reorder_threshold
+P001,WH001,100,50
+P002,WH002,30,40
+P003,WH003,200,100
